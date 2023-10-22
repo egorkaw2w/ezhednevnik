@@ -1,0 +1,29 @@
+C:\Users\egrok\source\repos\Diary\Diary\bin\Debug\net6.0\Diary.exe
+C:\Users\egrok\source\repos\Diary\Diary\bin\Debug\net6.0\Diary.deps.json
+C:\Users\egrok\source\repos\Diary\Diary\bin\Debug\net6.0\Diary.runtimeconfig.json
+C:\Users\egrok\source\repos\Diary\Diary\bin\Debug\net6.0\Diary.dll
+C:\Users\egrok\source\repos\Diary\Diary\bin\Debug\net6.0\Diary.pdb
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\Diary.AssemblyInfoInputs.cache
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\Diary.AssemblyInfo.cs
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\Diary.csproj.CoreCompileInputs.cache
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\Diary.dll
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\refint\Diary.dll
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\Diary.pdb
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\Diary.genruntimeconfig.cache
+C:\Users\egrok\source\repos\Diary\Diary\obj\Debug\net6.0\ref\Diary.dll
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net6.0\Diary.exe
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net6.0\Diary.deps.json
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net6.0\Diary.runtimeconfig.json
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net6.0\Diary.dll
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\bin\Debug\net6.0\Diary.pdb
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\Diary.csproj.AssemblyReference.cache
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\Diary.AssemblyInfoInputs.cache
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\Diary.AssemblyInfo.cs
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\Diary.csproj.CoreCompileInputs.cache
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\Diary.dll
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\refint\Diary.dll
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\Diary.pdb
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\Diary.genruntimeconfig.cache
+C:\Users\0702\OneDrive\Рабочий стол\Diary\Diary\obj\Debug\net6.0\ref\Diary.dll
